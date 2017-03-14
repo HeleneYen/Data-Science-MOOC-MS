@@ -1,6 +1,4 @@
 # Data-Science-MOOC-MS
-David Venturi's DIY Master's of Data Science program (http://davidventuri.com)
-
 Based on: [David Venturi's Data Science Master's Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412#.r47zvqa47)
 
 
